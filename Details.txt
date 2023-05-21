@@ -5,11 +5,11 @@
 
 Request:
     Request is an object with pre-defined key<->value pairs & methods/functions
-    used to operate on top of the request in-coming
+    used to operate on top of the request in-coming api call
 
 Response:
     response is an object with pre-defined key<->value pairs & methods
-    used to operate on top of the response out-going
+    used to operate on top of the response out-going api response
 
 2. Nodemon
     Reads the filesystem changes and restart the server automatically
